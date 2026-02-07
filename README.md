@@ -27,28 +27,28 @@ tic-tac-toe-monte-carlo/
 
 ## Requirements
 
-```bash
 Python 3.8+
 numpy          # (optional – only if you later vectorize)
 pickle         # standard library
 random         # standard library
 collections    # standard library
 No external packages are strictly required.
-Installation
+## Installation
 
 Clone the repository
-
-Bashgit clone https://github.com/ArmanMoradi001/tic-tac-toe-monte-carlo.git
+```bash
+git clone https://github.com/ArmanMoradi001/tic-tac-toe-monte-carlo.git
 cd tic-tac-toe-monte-carlo
+```
 
 (Optional) Create virtual environment
 
-Bashpython -m venv venv
+python -m venv venv
 source venv/bin/activate    # Linux/macOS
 venv\Scripts\activate       # Windows
 Usage
 1. Train the agent
-Bashpython train.py
+   python train.py
 
 Default: 500,000 episodes
 Progress printed every 50,000 episodes
