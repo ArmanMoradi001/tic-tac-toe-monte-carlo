@@ -118,6 +118,6 @@ print(f"X: {wins_x}  |  O: {wins_o}  |  Draws: {draws}")
 + Add alpha decay / better exploration schedule
 
 ## License
-Feel free to use, modify, and share.
+MIT. Feel free to use, modify, and share.
 Happy gaming & learning!
 Arman Moradi – 2026
