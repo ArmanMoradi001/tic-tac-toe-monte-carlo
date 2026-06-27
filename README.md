@@ -117,7 +117,4 @@ print(f"X: {wins_x}  |  O: {wins_o}  |  Draws: {draws}")
 + Ternary state encoding (0–19682) for faster lookups
 + Add alpha decay / better exploration schedule
 
-## License
-MIT. Feel free to use, modify, and share.
-Happy gaming & learning!
-Arman Moradi – 2026
+
